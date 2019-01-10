@@ -76,17 +76,17 @@ You should build the following routes:
 
 1.  `/songs`
 
-- This should present the user with a list of all songs in the library.
+<!-- - This should present the user with a list of all songs in the library. -->
 - Each song should be a clickable link to that particular song's show page.
 
 2.  `/genres`
 
-- This should present the user with a list of all genres in the library.
+<!-- - This should present the user with a list of all genres in the library. -->
 - Each genre should be a clickable link to that particular genre's show page.
 
 3.  `/artists`
 
-- This should present the user with a list of all artists in the library.
+<!-- - This should present the user with a list of all artists in the library. -->
 - Each artist should be a clickable link to that particular artist's show page.
 
 4.  `/songs/:slug`
