@@ -1,0 +1,4 @@
+# a song has many genres but only through SongGenre
+# Artist -< Song -< SongGenre >- Genre
+
+# 'cream' -< rap (genre of 'cream') >- rap
